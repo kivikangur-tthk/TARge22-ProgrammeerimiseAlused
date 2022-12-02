@@ -1,5 +1,6 @@
 # TARge22 Programmeermise alused
 
-#### Author: Mina ise
+#### Author: Kristjan Kivikangur
 
 Minu tehtud tööd antud aines.
+
