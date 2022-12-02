@@ -1,4 +1,8 @@
+"""Hello Worl program."""
+
+
 def hello():
+    """Asks for users name and greets by name."""
     name = input("Mis on sinu nimi? ")
     print(f"Hello, {name}!")
 
